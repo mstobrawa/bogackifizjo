@@ -90,7 +90,7 @@ textarea {
 }
 
 .certificates-marquee {
-  animation: certificates-marquee 34s linear infinite;
+  animation: certificates-marquee 90s linear infinite;
 }
 
 .certificates-marquee:hover {
